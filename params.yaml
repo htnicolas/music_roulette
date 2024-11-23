@@ -16,6 +16,8 @@ instrumentation:
   - "a drum machine"
   - "a cheesy sax"
   - "plasticky keys"
+  - "a flute"
+  - "a sitar"
 time_signature:
   - "4/4"
   - "12/8"
@@ -26,6 +28,7 @@ effects:
   - "sweeping filter"
   - "ring modulator"
   - "reverb"
+  - "sidechain"
 constraints:
   - "the bassline should stays constant in part A, follows chords in part B"
   - "use a drone throughout"
@@ -36,6 +39,7 @@ constraints:
   - "use Jacob Collier's Audience Choir VST (free)"
   - "reharm the melody in the bridge"
   - "sample a baby toy"
+  - "introduce a key change"
 descriptors:
   - "with contrast"
   - "to be played in a modernist interior"
@@ -48,5 +52,7 @@ descriptors:
   - "with a sense of space"
   - "cheesy"
   - "syncopated"
-  - "shimmery"
+  - "shimmery & sparkly"
+  - "swung"
+  - "as the background to a 90s educational video to discover the internet"
 
